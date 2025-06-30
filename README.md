@@ -1,4 +1,4 @@
-*🏫 2026 QS World University Rankings Analysis
+## **🏫 2026 QS World University Rankings Analysis ** ##
 This project analyzes the 2026 QS World University Rankings dataset, including data cleaning, exploratory data analysis (EDA), feature engineering, and model selection using regression techniques.
 
 📂 Dataset
