@@ -94,7 +94,7 @@ Clone the repo:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/qs-university-rankings-analysis.git
+git clone https://github.com/Omolemo1999/ML_practice_project_01
 cd qs-university-rankings-analysis
 Install dependencies:
 
